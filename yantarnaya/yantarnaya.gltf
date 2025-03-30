@@ -21,10 +21,10 @@
 			"mesh":0,
 			"name":"Plane001",
 			"rotation":[
+				0.7071068286895752,
 				0,
-				-0.70710688829422,
-				-0.7071066498756409,
-				5.024294934767972e-15
+				0,
+				0.7071068286895752
 			],
 			"scale":[
 				0.009999999776482582,
@@ -53,7 +53,7 @@
 					"ior":1.4500000476837158
 				}
 			},
-			"name":"01 - Default.008",
+			"name":"01 - Default.009",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":0
@@ -64,7 +64,7 @@
 	],
 	"meshes":[
 		{
-			"name":"Mesh.008",
+			"name":"Mesh.009",
 			"primitives":[
 				{
 					"attributes":{
