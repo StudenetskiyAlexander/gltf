@@ -5,11 +5,7 @@
 	},
 	"extensionsUsed":[
 		"KHR_materials_specular",
-		"KHR_materials_ior",
-		"KHR_texture_transform"
-	],
-	"extensionsRequired":[
-		"KHR_texture_transform"
+		"KHR_materials_ior"
 	],
 	"scene":0,
 	"scenes":[
@@ -24,15 +20,21 @@
 		{
 			"mesh":0,
 			"name":"Plane001",
+			"rotation":[
+				0,
+				-0.70710688829422,
+				-0.7071066498756409,
+				5.024294934767972e-15
+			],
 			"scale":[
 				0.009999999776482582,
 				0.009999999776482582,
 				0.009999999776482582
 			],
 			"translation":[
-				-0.1296326071023941,
-				0,
-				0.0022379683796316385
+				-0.37854498624801636,
+				-0.016029587015509605,
+				0
 			]
 		}
 	],
@@ -51,18 +53,9 @@
 					"ior":1.4500000476837158
 				}
 			},
-			"name":"01 - Default",
+			"name":"01 - Default.007",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
-					"extensions":{
-						"KHR_texture_transform":{
-							"offset":[
-								-0.44592670372163634,
-								2.342072119814168
-							],
-							"rotation":90
-						}
-					},
 					"index":0
 				},
 				"roughnessFactor":0.858578622341156
@@ -71,7 +64,7 @@
 	],
 	"meshes":[
 		{
-			"name":"Mesh",
+			"name":"Mesh.007",
 			"primitives":[
 				{
 					"attributes":{
@@ -104,14 +97,14 @@
 			"componentType":5126,
 			"count":4,
 			"max":[
-				95,
+				50,
 				0,
-				50
+				95
 			],
 			"min":[
-				-95,
+				-50,
 				0,
-				-50
+				-95
 			],
 			"type":"VEC3"
 		},
