@@ -53,7 +53,7 @@
 					"ior":1.4500000476837158
 				}
 			},
-			"name":"01 - Default.007",
+			"name":"01 - Default.008",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":0
@@ -64,7 +64,7 @@
 	],
 	"meshes":[
 		{
-			"name":"Mesh.007",
+			"name":"Mesh.008",
 			"primitives":[
 				{
 					"attributes":{
